@@ -1,0 +1,32 @@
+.h-box{
+    padding-left: 216px;
+    padding-top: 216px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.h-suptitle{
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+}
+
+.h-title{
+    font-size: 100px;
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+}
+
+.h-btn{
+    width: 238px;
+    height: 57px;
+    background: transparent;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    border: 1px solid #FFFFFF
+}

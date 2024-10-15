@@ -1,0 +1,38 @@
+.HeaderTop{
+    padding-top: 57px;
+    padding-left: 216px;
+}
+
+.h-box1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.h-list{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    text-transform: uppercase;
+    align-items: center;
+}
+
+.h-child{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}
+
+.h-num{
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+}
+
+.h-link{
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    text-decoration: none;
+}
